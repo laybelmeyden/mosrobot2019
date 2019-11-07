@@ -18,8 +18,8 @@ Route::group(['prefix' => 'admin'], function () {
     Voyager::routes();
 });
 
-Route::get('/', 'Maincontroller@index');
-Route::get('/more', 'Maincontroller@more');
-Route::get('/about', 'Maincontroller@about');
-Route::get('/hackaton', 'Maincontroller@hackaton');
+Route::get('/', 'MainController@index');
+Route::get('/more', 'MainController@more');
+Route::get('/about', 'MainController@about');
+Route::get('/hackaton', 'MainController@hackaton');
 Route::post('/contact', 'MainController@contact');
