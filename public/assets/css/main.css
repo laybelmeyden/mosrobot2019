@@ -1393,6 +1393,9 @@ textarea::placeholder {
         text-transform: uppercase;
         color: #FFFFFF;
     }
+    .navbar-toggler {
+        color: white;
+    }
     #header_other h1 {
         font-family: 'PNovaB';
         font-style: normal;

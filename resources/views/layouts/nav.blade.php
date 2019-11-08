@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon">МЕНЮ</span>
+  МЕНЮ
   </button>
   <div class="collapse navbar-collapse justify-content-center" id="navbarNavDropdown">
     <ul class="navbar-nav">
