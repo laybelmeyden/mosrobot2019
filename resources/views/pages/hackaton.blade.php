@@ -7,7 +7,7 @@
         <div class="flex_about_1">
         <h1>Хакатон по технологическому<br> предпринимательству:</h1>
         <p>«Коммерциализация функций<br> удаленного мониторинга»</p>
-        <a href="#" class="btn btn-primary btn_hackaton">УЧАСтвовать в ХАКАТОНЕ</a>
+        <a href="https://rusinnovations.timepad.ru/event/1112112/" class="btn btn-primary btn_hackaton">УЧАСтвовать в ХАКАТОНЕ</a>
         </div>
     </div>
 </div>
@@ -56,7 +56,7 @@
             <p>Команда должна иметь не менее 1 ноутбука с Wi-Fi модулем. Ноутбуки организаторы не предоставляют.</p>
         </div>
         <div class="col-xl-12 h_c">
-        <a href="#" class="btn btn-primary btn_hackaton">УЧАСтвовать в ХАКАТОНЕ</a>
+        <a href="https://rusinnovations.timepad.ru/event/1112112/" class="btn btn-primary btn_hackaton">УЧАСтвовать в ХАКАТОНЕ</a>
         </div>
             </div>
     </div>

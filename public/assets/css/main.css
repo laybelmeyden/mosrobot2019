@@ -211,10 +211,12 @@
 }
 
 .flex_one div {
-    padding-right: 90px;
+    padding-right: 86px;
     display: flex;
     align-items: center;
     flex-direction: column;
+    height: 300px;
+    width: 250px;
 }
 
 .btn_info_one {
@@ -295,6 +297,21 @@
     margin-bottom: 60px;
 }
 
+.hackaton_main {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 52px;
+    line-height: 63px;
+    text-transform: uppercase;
+    color: #1EFFFF;
+    margin: 0;
+    padding-top: 202px;
+}
+
+.navbar-toggler {
+    color: white;
+}
+
 #hackaton {
     background-image: url(../img/Group14.png);
     height: auto;
@@ -310,7 +327,7 @@
     font-size: 24px;
     line-height: 29px;
     color: #FFFFFF;
-    margin-top: 300px;
+    margin-top: 48px;
 }
 
 .hackaton_p2 {
@@ -388,6 +405,7 @@
     color: #431CB0;
     margin-top: 41px;
     margin-bottom: 44px;
+    width: 100%;
 }
 
 #vistavka {
@@ -395,7 +413,13 @@
 }
 
 .ttw div {
-    padding-right: 134px;
+    padding-right: 73px;
+    height: 200px;
+    width: 220px;
+}
+
+.ttw p {
+    font-size: 20px;
 }
 
 .about_vistavka_1 {
@@ -416,6 +440,7 @@
     font-weight: bold;
     font-size: 24px;
     line-height: 29px;
+    width: 100%;
 }
 
 .header_h3_vistavka {
@@ -451,8 +476,10 @@ a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-right: 60px;
-    padding-left: 60px;
+    margin-right: 60px;
+    margin-left: 140px;
+    width: 278px;
+    height: 135px;
 }
 
 .two_part {
@@ -460,7 +487,7 @@ a:hover {
 }
 
 .two_part_2 {
-    margin-top: 54px;
+    margin-top: 94px;
 }
 
 #partners h1 {
@@ -1237,9 +1264,16 @@ textarea::placeholder {
         padding-right: 0;
         padding-left: 0;
         padding-top: 40px;
+        margin-right: 10px;
+        margin-left: 10px;
+        width: 100%;
+        height: auto;
     }
     .two_part {
         margin-top: 0;
+    }
+    .two_part_2 {
+        margin-top: 0px;
     }
     .maps_back {
         background: #230E7A;
@@ -1392,9 +1426,6 @@ textarea::placeholder {
         text-align: center;
         text-transform: uppercase;
         color: #FFFFFF;
-    }
-    .navbar-toggler {
-        color: white;
     }
     #header_other h1 {
         font-family: 'PNovaB';

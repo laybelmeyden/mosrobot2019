@@ -12,8 +12,8 @@
   </div>
   </div>
   <div class="btn_header">
-  <a class="btn btn-primary btn_one" href="#" role="button">УЧАСтвовать в кубке губернатора</a>
-  <a class="btn btn-primary btn_two" href="#" role="button">УЧАСтвовать в ХАКАТОНЕ</a>
+  <a class="btn btn-primary btn_one" href="https://rusinnovations.timepad.ru/event/1112004/" role="button">УЧАСтвовать в кубке губернатора</a>
+  <a class="btn btn-primary btn_two" href="https://rusinnovations.timepad.ru/event/1112112/" role="button">УЧАСтвовать в ХАКАТОНЕ</a>
   </div>
   </div>
 </div>
@@ -28,33 +28,33 @@
     <h3 class="info_h3"><span><b>7</b></span> номинаций, около <span><b>400</b></span> человек</h3>
     <div class="flex_one">
      <div>
-       <img src="assets/img/Group7.png" alt="">
+       <img src="assets/img/Group7.svg" alt="">
        <p>Движение <br>по линии</p>
      </div> 
      <div>
-       <img src="assets/img/Group8.png" alt="">
+       <img src="assets/img/Group8.svg" alt="">
        <p>Лабиринт</p>
      </div> 
      <div>
-       <img src="assets/img/Group9.png" alt="">
+       <img src="assets/img/Group9.svg" alt="">
        <p>Кегельринг</p>
      </div> 
      <div>
-       <img src="assets/img/Group10.png" alt="">
+       <img src="assets/img/Group10.svg" alt="">
        <p>Сумо роботов</p>
      </div> 
     </div>
     <div class="flex_one">
      <div>
-       <img src="assets/img/Group11.png" alt="">
+       <img src="assets/img/Group11.svg" alt="">
        <p>Korolev robotic<br> challenge</p>
      </div> 
      <div>
-       <img src="assets/img/Group12.png" alt="">
+       <img src="assets/img/Group12.svg" alt="">
        <p>Хоккей роботов</p>
      </div> 
      <div>
-       <img src="assets/img/Group13.png" alt="">
+       <img src="assets/img/Group13.svg" alt="">
        <p>Проектные <br>соревнования</p>
      </div> 
     </div>
@@ -63,7 +63,7 @@
     <div class="flex_two">
     <a class="btn btn-primary btn_info_one" href="/more" role="button">Подробнее</a>
     <a class="btn btn-primary btn_info_two" href="/about" role="button">Вопросы</a>
-    <a class="btn btn-primary btn_info_tgree" href="#" role="button">РЕГИСТРАЦИЯ НА кубОК губернатора</a>
+    <a class="btn btn-primary btn_info_tgree" href="https://rusinnovations.timepad.ru/event/1112004/" role="button">РЕГИСТРАЦИЯ НА кубОК губернатора</a>
     </div>
   </div>
 </div>
@@ -72,12 +72,13 @@
 <div class="container">
   <div class="row">
     <div class="col-xl-12">
+    <h1 class="hackaton_main">ХАКАТОН</h1>
     <p class="hackaton_p1"><b>Хакатон</b> – это марафон разработчиков, мероприятие, во время которого специалисты из разных областей разработки программного обеспечения (программисты, дизайнеры, менеджеры) сообща работают над решением какой-либо проблемы/задачи.</p>
     <p class="hackaton_p2"><span>7 декабря </span> участникам хакатона предстоит решить задачу коммерциализации функций удаленного мониторинга.</p>
     </div>
     <div class="flex_three">
     <a class="btn btn-primary btn_hackaton_one" href="/hackaton" role="button">Подробнее</a>
-    <a class="btn btn-primary btn_hackaton_two" href="#" role="button">РЕГИСТРАЦИЯ НА ХАКАТОН</a>
+    <a class="btn btn-primary btn_hackaton_two" href="https://rusinnovations.timepad.ru/event/1112112/" role="button">РЕГИСТРАЦИЯ НА ХАКАТОН</a>
     </div>
   </div>
 </div>
@@ -86,22 +87,40 @@
   <div class="container">
     <div class="row">
       <h1>ВыставкА</h1>
-    <div class="flex_one ttw">
+      <div class="flex_one ttw">
      <div>
-       <img src="assets/img/Group15.png" alt="">
-       <p>Медицина</p>
+       <img src="assets/img/Group38.svg" alt="">
+       <p>Робототехника</p>
      </div> 
      <div>
-       <img src="assets/img/Group16.png" alt="">
-       <p>Машиностроение</p>
+       <img src="assets/img/Group39.svg" alt="">
+       <p>Нейросети</p>
      </div> 
      <div>
-       <img src="assets/img/Group17.png" alt="">
-       <p>Сельское хозяйство</p>
+       <img src="assets/img/Group40.svg" alt="">
+       <p>Искусственный<br> интеллект</p>
+     </div> 
+     <div>
+       <img src="assets/img/Group41.svg" alt="">
+       <p>Космоческие<br> технологии</p>
      </div> 
     </div>
-    <p class="about_vistavka_1">Выставка соберет самые интересные разработки в области IT, робототехники, искусственного интеллекта компаний Московской области.</p>
-    <p class="about_vistavka_2">Если Вы хотите стать участником нашей выставки, свяжитесь с нами:</p>
+    <div class="flex_one ttw" style="margin-top:42px;">
+     <div>
+       <img src="assets/img/Group42.svg" alt="">
+       <p>Медтех</p>
+     </div> 
+     <div>
+       <img src="assets/img/Group43.svg" alt="">
+       <p>БПЛА</p>
+     </div> 
+     <div>
+       <img src="assets/img/Group44.svg" alt="">
+       <p>IT</p>
+     </div> 
+    </div>
+    <p class="about_vistavka_1">На Выставке Московского областного молодежного форума инноваций и предпринимательства будут представлены последние новейшие инновационные прототипы андроидных роботов, беспилотных летательных аппаратов, космических и медицинских технологий, разработки в области нейросетей, искусственного интеллекта и it.</p>
+    <p class="about_vistavka_2">По вопросам участия в выставке:</p>
     <div class="header_h3_vistavka">
     <img src="assets/img/arroba1.png" alt=""><h3><a href="mailto:org@roboevents.ru">org@roboevents.ru</a></h3>
     <img src="assets/img/telephone1.png" alt="" class="right_contect"><h3><a href="tel:+7(499)288-25-59">+7(499)288-25-59</a></h3>
@@ -119,25 +138,25 @@
   </div>
     <div class="flex_one_partners two_part">
      <div>
-     <a href="https://mosreg.ru/"><img src="assets/img/Coat_of_arms_of_Moscow_Oblast_(large).png" alt=""></a>
+     <a href="https://mosreg.ru/"><img src="assets/img/GroupL1.svg" alt=""></a>
      </div> 
      <div>
-       <a href="https://politika.mosreg.ru/"><img src="assets/img/Frame23.png" alt=""></a>
+       <a href="https://politika.mosreg.ru/"><img src="assets/img/GroupL2.svg" alt=""></a>
      </div> 
      <div>
-     <a href="http://www.grandevent.org/"><img src="assets/img/Group3233.png" alt=""></a>
+     <a href="http://www.grandevent.org/"><img src="assets/img/GroupL3.svg" alt=""></a>
      </div> 
      
     </div>
     <div class="flex_one_partners two_part_2">
      <div>
-     <a href="https://mosreg.ru/sobytiya/temy/forum-ya-grazhdanin-podmoskovya"><img src="assets/img/Frame25.png" alt=""></a>
+     <a href="https://mosreg.ru/sobytiya/temy/forum-ya-grazhdanin-podmoskovya"><img src="assets/img/GroupL4.svg" alt=""></a>
      </div> 
      <div>
-     <a href="https://mosreg.ru/"><img src="assets/img/360°_logo_2017.png" alt=""></a>
+     <a href="https://mosreg.ru/"><img src="assets/img/GroupL5.svg" alt=""></a>
      </div> 
      <div>
-     <a href="https://rusinnovations.com/"><img src="assets/img/Logo3123.png" alt=""></a>
+     <a href="https://rusinnovations.com/"><img src="assets/img/GroupL6.svg" alt=""></a>
      </div> 
     </div>
 </section>
