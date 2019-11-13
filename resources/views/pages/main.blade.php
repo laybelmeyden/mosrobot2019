@@ -126,7 +126,7 @@
     <p class="about_vistavka_1">На Выставке Московского областного молодежного форума инноваций и предпринимательства будут представлены последние новейшие инновационные прототипы андроидных роботов, беспилотных летательных аппаратов, космических и медицинских технологий, разработки в области нейросетей, искусственного интеллекта и it.</p>
     <p class="about_vistavka_2">По вопросам участия в выставке:</p>
     <div class="header_h3_vistavka">
-    <img src="assets/img/arroba1.png" alt=""><h3><a href="mailto:org@roboevents.ru">org@roboevents.ru</a></h3>
+    <img src="assets/img/arroba1.png" alt=""><h3><a href="mailto:innovaciiforum2019@gmail.com">innovaciiforum2019@gmail.com</a></h3>
     <img src="assets/img/telephone1.png" alt="" class="right_contect"><h3><a href="tel:+7(916)4085278">8 (916) 408 52 78 Досковская Юлия</a></h3>
     </div>
     </div>
