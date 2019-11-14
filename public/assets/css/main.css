@@ -50,7 +50,7 @@
 
 #header {
     background-image: url(../img/Group6.png);
-    height: 650px;
+    height: 700px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -75,6 +75,11 @@
     align-items: center;
 }
 
+.header_h3_main {
+    display: flex;
+    align-items: center;
+}
+
 .header_h3 h3 {
     font-family: 'PNovaR';
     font-style: normal;
@@ -83,6 +88,18 @@
     line-height: 29px;
     color: #1EFFFF;
     margin: 0;
+}
+
+.header_h3_main h3 {
+    font-family: 'PNovaR';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #1EFFFF;
+    margin: 0;
+    padding-right: 44px;
+    padding-top: 30px;
 }
 
 .header_h3 img {
@@ -1038,6 +1055,11 @@ textarea::placeholder {
         padding-bottom: 0;
         padding: 40px;
         text-align: center;
+    }
+    .header_h3_main {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
     }
     .header_title {
         margin-top: 0;

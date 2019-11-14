@@ -10,6 +10,9 @@
   <img src="assets/img/calendar1.png" alt=""><h3>07/12/2019</h3>
   <img src="assets/img/placeholder-filled-point1.png" alt="" class="right_contect"><h3>Дом Правительства Московской области</h3>
   </div>
+  <div class="header_h3_main">
+  <h3>Регистрация участников в 9:00</h3>
+  <h3>Старт Соревнований в 10:00</h3>
   </div>
   <div class="btn_header">
   <a class="btn btn-primary btn_one" href="https://rusinnovations.timepad.ru/event/1112004/" role="button">УЧАСтвовать в кубке губернатора</a>
