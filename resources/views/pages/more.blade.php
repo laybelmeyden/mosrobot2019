@@ -6,6 +6,10 @@
 <div class="container">
     <div class="row">
         <h1>Кубок Губернатора<br> Московской области<br> по робототехнике</h1>
+        <div class="header_h3_main">
+  <h3>Регистрация участников в 9:00</h3>
+  <h3>Старт Соревнований в 10:00</h3>
+  </div>
     </div>
 </div>
 </section>
