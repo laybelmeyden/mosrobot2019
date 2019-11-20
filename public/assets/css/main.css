@@ -1060,6 +1060,8 @@ textarea::placeholder {
         display: flex;
         align-items: center;
         flex-direction: column;
+        padding: 30px;
+        width: 100%;
     }
     .header_title {
         margin-top: 0;
@@ -1072,12 +1074,23 @@ textarea::placeholder {
     .right_contect {
         margin-left: 0;
     }
+    .plos {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        padding: 30px;
+        width: 100%;
+    }
     .header_h3 {
         display: flex;
         align-items: center;
         flex-direction: column;
         justify-content: center;
         text-align: center;
+        padding: 30px;
+        width: 100%;
     }
     .btn_header {
         margin-top: 20px;
