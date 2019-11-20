@@ -11,11 +11,12 @@
   <img src="assets/img/placeholder-filled-point1.png" alt="" class="right_contect"><h3>Дом Правительства Московской области</h3>
   </div>
         <div class="header_h3_main">
-  <h3>РЕГИСТРАЦИЯ ОТКРЫТА ДО 29.11</h3>
+  <h3>Регистрация участников в 9:00</h3>
+  <h3>Старт Соревнований в 10:00</h3>
   </div>
   <p style="color:red; font-size: 24px;
     padding-top: 10px;
-    font-weight: bold;">Регламенты будут доступны для ознакомления 20.11 (в 15:00 по МСК)</p>
+    font-weight: bold;">РЕГИСТРАЦИЯ ОТКРЫТА ДО 29.11</p>
     </div>
 </div>
 </section>
