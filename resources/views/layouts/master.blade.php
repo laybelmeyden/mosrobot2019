@@ -9,13 +9,13 @@
   <META NAME="keywords" CONTENT="Московский областной молодежный форум инноваций и предпринимательства">
   <META NAME="AUTHOR" CONTENT="https://vk.com/glrlcocks">
   <meta name="revisit-after" content="5 days">
-  <link rel="SHORTCUT ICON" href="" type="image/x-icon">
+  <link rel="SHORTCUT ICON" href="assets/img/Group50.png" type="image/x-icon">
     <meta name="yandex-verification" content="2c049c2c17b41118" />
   <!--соц сети-->
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Московский областной молодежный форум инноваций и предпринимательства" />
   <meta property="og:description" content="Московский областной молодежный форум инноваций и предпринимательства" />
-  <meta property="og:image" content=""  />
+  <meta property="og:image" content="assets/img/Group50.png"  />
   <meta property="og:url" content="Московский областной молодежный форум инноваций и предпринимательства" />
   <meta property="og:site_name" content="Московский областной молодежный форум инноваций и предпринимательства" />
 

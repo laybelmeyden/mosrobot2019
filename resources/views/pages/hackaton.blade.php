@@ -11,6 +11,17 @@
         <div class="flex_about_1">
         <h1>5-часовой Хакатон от компании МТС</h1>
         <p>Низкоуровневая разработка и работа с датчиками</p>
+        <div class="hack_nav_logo">
+            <div>
+                <img src="assets/img/GroupL1.svg" alt="">
+            </div>
+            <div>
+                <img src="assets/img/MTS_Logo_DUO.png" alt="">
+            </div>
+            <div>
+                <img src="assets/img/GroupL6.svg" alt="">
+            </div>
+        </div>
         <a href="https://rusinnovations.timepad.ru/event/1112112/" class="btn btn-primary btn_hackaton">УЧАСтвовать в ХАКАТОНЕ</a>
         </div>
     </div>
