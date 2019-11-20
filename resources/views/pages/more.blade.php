@@ -14,11 +14,9 @@
   <h3>Регистрация участников в 9:00</h3>
   <h3>Старт Соревнований в 10:00</h3>
   </div>
-  <div>
   <p style="color:red; font-size: 24px;
     padding-top: 10px;
-    font-weight: bold;">РЕГИСТРАЦИЯ ОТКРЫТА ДО 29.11</p>
-    </div>
+    font-weight: bold; width: 100%;">РЕГИСТРАЦИЯ ОТКРЫТА ДО 29.11</p>
   </div>
 </div>
 </section>
