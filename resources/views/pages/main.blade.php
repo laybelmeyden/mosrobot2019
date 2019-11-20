@@ -7,8 +7,8 @@
   <div class="header_title">
   <h1>Московский областной молодежный <br> форум инноваций и предпринимательства</h1>
   <div class="header_h3">
-  <img src="assets/img/calendar1.png" alt=""><h3>07/12/2019</h3>
-  <img src="assets/img/placeholder-filled-point1.png" alt="" class="right_contect"><h3>Дом Правительства Московской области</h3>
+  <img src="assets/img/calendar1.svg" alt=""><h3>07/12/2019</h3>
+  <img src="assets/img/placeholder-filled-point1.svg" alt="" class="right_contect"><h3>Дом Правительства Московской области</h3>
   </div>
   <div class="btn_header">
   <a class="btn btn-primary btn_one" href="https://rusinnovations.timepad.ru/event/1112004/" role="button">УЧАСтвовать в кубке губернатора</a>
@@ -125,8 +125,8 @@
     <p class="about_vistavka_1">На Выставке Московского областного молодежного форума инноваций и предпринимательства будут представлены последние новейшие инновационные прототипы андроидных роботов, беспилотных летательных аппаратов, космических и медицинских технологий, разработки в области нейросетей, искусственного интеллекта и it.</p>
     <p class="about_vistavka_2">По вопросам участия в выставке:</p>
     <div class="header_h3_vistavka">
-    <img src="assets/img/arroba1.png" alt=""><h3><a href="mailto:innovaciiforum2019@gmail.com">innovaciiforum2019@gmail.com</a></h3>
-    <img src="assets/img/telephone1.png" alt="" class="right_contect"><h3><a href="tel:+7(916)4085278">8 (916) 408 52 78 Досковская Юлия</a></h3>
+    <img src="assets/img/arroba1.svg" alt=""><h3><a href="mailto:innovaciiforum2019@gmail.com">innovaciiforum2019@gmail.com</a></h3>
+    <img src="assets/img/telephone1.svg" alt="" class="right_contect"><h3><a href="tel:+7(916)4085278">8 (916) 408 52 78 Досковская Юлия</a></h3>
     </div>
     </div>
   </div>
@@ -160,6 +160,22 @@
      </div> 
      <div>
      <a href="https://rusinnovations.com/"><img src="assets/img/GroupL6.svg" alt=""></a>
+     </div> 
+    </div>
+    <div class="flex_one_partners two_part_2">
+     <div>
+     <a href="https://moskva.mts.ru/personal"><img src="assets/img/MTS_Logo_rus_r.jpg" alt="" style="width: 200px;"></a>
+     </div> 
+     <div>
+     <a href="https://www.technoschool.club/"><img src="assets/img/a3f3b7_45744d50e964496c80c14aac40991c82.webp" style="width: 150px;" alt=""></a>
+     </div> 
+     <div>
+     <a href="http://sm-mech.ru/"><img src="assets/img/sm-mech.svg" alt="" style="width: 150px;"></a>
+     </div> 
+    </div>
+    <div class="flex_one_partners two_part_2">
+     <div>
+     <a href="https://coddyschool.com/"><img src="assets/img/logo-coddy-blue.png" alt=""  style="width: 150px;"></a>
      </div> 
     </div>
 </section>

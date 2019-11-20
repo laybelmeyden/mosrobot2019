@@ -7,8 +7,8 @@
     <div class="row">
         <h1>Кубок Губернатора<br> Московской области<br> по робототехнике</h1>
         <div class="header_h3">
-  <img src="assets/img/calendar1.png" alt=""><h3>07/12/2019</h3>
-  <img src="assets/img/placeholder-filled-point1.png" alt="" class="right_contect"><h3>Дом Правительства Московской области</h3>
+  <img src="assets/img/calendar1.svg" alt=""><h3>07/12/2019</h3>
+  <img src="assets/img/placeholder-filled-point1.svg" alt="" class="right_contect"><h3>Дом Правительства Московской области</h3>
   </div>
         <div class="header_h3_main">
   <h3>Регистрация участников в 9:00</h3>
@@ -50,7 +50,7 @@
             <div class="card-body">
                 <div class="flex_img_rules">
                     <div>
-                    <img src="assets/img/Group12.png" alt="">
+                    <img src="assets/img/Group12.svg" alt="">
                     </div>
                     <div class="flex_img_rules_2">
                     <h5 class="card-title">ХОККЕЙ РОБОТОВ (6-10 ЛЕТ)</h5>
@@ -66,7 +66,7 @@
             <div class="card-body">
                 <div class="flex_img_rules">
                     <div>
-                    <img src="assets/img/Group10.png" alt="">
+                    <img src="assets/img/Group10.svg" alt="">
                     </div>
                     <div class="flex_img_rules_2">
                     <h5 class="card-title">СУМО РОБОТОВ (9-15 лет)</h5>
@@ -82,7 +82,7 @@
             <div class="card-body">
                 <div class="flex_img_rules">
                     <div>
-                    <img src="assets/img/Group8.png" alt="">
+                    <img src="assets/img/Group8.svg" alt="">
                     </div>
                     <div class="flex_img_rules_2">
                     <h5 class="card-title">Лабиринт (9-15 лет)</h5>
@@ -98,7 +98,7 @@
             <div class="card-body">
                 <div class="flex_img_rules">
                     <div>
-                    <img src="assets/img/Group7.png" alt="">
+                    <img src="assets/img/Group7.svg" alt="">
                     </div>
                     <div class="flex_img_rules_2">
                     <h5 class="card-title">Движение по линии (9-15 лет)</h5>
@@ -114,7 +114,7 @@
             <div class="card-body">
                 <div class="flex_img_rules">
                     <div>
-                    <img src="assets/img/Group9.png" alt="">
+                    <img src="assets/img/Group9.svg" alt="">
                     </div>
                     <div class="flex_img_rules_2">
                     <h5 class="card-title">Кегельринг (9-15 лет)</h5>
@@ -130,7 +130,7 @@
             <div class="card-body">
                 <div class="flex_img_rules">
                     <div>
-                    <img src="assets/img/Group11.png" alt="">
+                    <img src="assets/img/Group11.svg" alt="">
                     </div>
                     <div class="flex_img_rules_2">
                     <h5 class="card-title">Korolev robotic challenge (9-15 ЛЕТ)</h5>
@@ -146,7 +146,7 @@
             <div class="card-body">
                 <div class="flex_img_rules">
                     <div>
-                    <img src="assets/img/Group13.png" alt="">
+                    <img src="assets/img/Group13.svg" alt="">
                     </div>
                     <div class="flex_img_rules_2">
                     <h5 class="card-title">Проектная категория (6-10 ЛЕТ И 11-15 ЛЕТ)</h5>

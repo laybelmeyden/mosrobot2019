@@ -499,6 +499,10 @@ a:hover {
     height: 135px;
 }
 
+.flex_one_partners img {
+    width: 100%;
+}
+
 .two_part {
     margin-top: 40px;
 }
