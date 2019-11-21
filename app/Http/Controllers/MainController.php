@@ -37,7 +37,6 @@ class MainController extends Controller
         $message_contact->to($mail_admin, 'For Admin')->subject('Message from site');
      });
 
-     back()->with('message_1', 'Ваш вопрос отправлен куратору конкурса и в ближайшее время мы свяжемся с вами, чтобы ответить на него!');
-     return redirect('/')->with('message', 'СПАСИБО ЗА ВАШУ АКТИВНОСТЬ И ИНТЕРЕС К КОНКУРСУ!');
+     return redirect('/');
     }
 }
