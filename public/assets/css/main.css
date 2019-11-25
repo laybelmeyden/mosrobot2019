@@ -617,6 +617,9 @@ a:hover {
     background: #00082D;
     height: 74px;
     width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .flex_footer_3 {
