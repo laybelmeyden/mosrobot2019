@@ -25,6 +25,14 @@
     <div class="about_text">
     <h1 class="info_h1">Кубок Губернатора</h1>
     <h3 class="info_h3"><span><b>7</b></span> номинаций, около <span><b>2000</b></span> человек</h3>
+  <div style="margin-bottom:40px;">
+  <h3>По вопросам участия в соревнованиях:</h3>
+  <h3>
+  Шульгин Владимир 
+  <a href="tel:+7 (499) 753-01-25">+7 (499) 753-01-25</a> 
+  <a href="mailto:mosoblfest@mail.ru">mosoblfest@mail.ru</a>
+  </h3>
+  </div>
     <div class="flex_one">
      <div>
        <img src="assets/img/Group7.svg" alt="">
@@ -75,6 +83,14 @@
     <p class="hackaton_p1"><b>Хакатон</b> – это марафон разработчиков, мероприятие, во время которого специалисты из разных областей разработки программного обеспечения (программисты, дизайнеры, менеджеры) сообща работают над решением какой-либо проблемы/задачи.</p>
     <p class="hackaton_p2"><span>7 декабря </span>участникам Хакатона предстоит решить реальную задачу из практики МТС.</p>
     </div>
+    <div style="margin-bottom:40px; color: #1EFFFF;">
+  <h3>По вопросам участия в Хакатоне:</h3>
+  <h3>
+  Шульгин Владимир 
+  <a href="tel:+7 (499) 753-01-25" style="color: #1EFFFF;">+7 (499) 753-01-25</a> 
+  <a href="mailto:mosoblfest@mail.ru" style="color: #1EFFFF;">mosoblfest@mail.ru</a>
+  </h3>
+  </div>
     <div class="flex_three">
     <a class="btn btn-primary btn_hackaton_one" href="/hackaton" role="button">Подробнее</a>
     <a class="btn btn-primary btn_hackaton_two" href="https://rusinnovations.timepad.ru/event/1112112/" role="button">РЕГИСТРАЦИЯ НА ХАКАТОН</a>

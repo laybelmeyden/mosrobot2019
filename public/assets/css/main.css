@@ -50,7 +50,7 @@
 
 #header {
     background-image: url(../img/Group6.png);
-    height: 700px;
+    height: 850px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -741,7 +741,7 @@ textarea::placeholder {
 
 #header_other_2 {
     background-image: url(../img/Group37.png);
-    height: 540px;
+    height: 700px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
