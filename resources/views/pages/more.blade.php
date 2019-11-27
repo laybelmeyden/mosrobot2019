@@ -16,7 +16,9 @@
   </div>
   <p style="color:red; font-size: 24px;
     padding-top: 10px;
-    font-weight: bold; width: 100%;" class="plos">РЕГИСТРАЦИЯ ОТКРЫТА ДО 29.11</p>
+    font-weight: bold; width: 100%;" class="plos">РЕГИСТРАЦИЯ ОТКРЫТА ДО 29.11<br>
+    *количество мест ограничено и регистрация может закрыться раньше указанной даты
+    </p>
   </div>
 </div>
 </section>
