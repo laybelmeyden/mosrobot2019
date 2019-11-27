@@ -17,7 +17,7 @@
   <p style="color:red; font-size: 24px;
     padding-top: 10px;
     font-weight: bold; width: 100%;" class="plos">РЕГИСТРАЦИЯ ОТКРЫТА ДО 29.11<br>
-    <span style="color:red; font-size: 24px;
+    <span style="color:red; font-size: 18px;
     padding-top: 10px;
     font-weight: bold; width: 100%;">*количество мест ограничено и регистрация может закрыться раньше указанной даты</span>
     </p>
