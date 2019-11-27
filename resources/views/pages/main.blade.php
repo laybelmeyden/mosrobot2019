@@ -5,7 +5,7 @@
 <div class="container">
   <div class="row">
   <div class="header_title">
-  <h1>Московский областной молодежный <br> форум инноваций и предпринимательства</h1>
+  <h1>Молодежный форум инноваций и <br>предпринимательства Московской области</h1>
   <div class="header_h3">
   <img src="assets/img/calendar1.svg" alt=""><h3>07/12/2019</h3>
   <img src="assets/img/placeholder-filled-point1.svg" alt="" class="right_contect"><h3>Дом Правительства Московской области</h3>

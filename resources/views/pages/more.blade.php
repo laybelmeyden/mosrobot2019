@@ -17,6 +17,7 @@
   <p style="color:red; font-size: 24px;
     padding-top: 10px;
     font-weight: bold; width: 100%;" class="plos">РЕГИСТРАЦИЯ ОТКРЫТА ДО 29.11<br>
+    Подтверждение об участии прийдет на Вашу почту не позднее 30.11<br>
     <span style="color:red; font-size: 18px;
     padding-top: 10px;
     font-weight: bold; width: 100%;">*количество мест ограничено и регистрация по Категориям может закрыться раньше указанной даты</span>
@@ -108,7 +109,7 @@
                     <div class="flex_img_rules_2">
                     <h5 class="card-title">Движение по линии (9-15 лет)</h5>
                     <p class="card-text">Участники: команда из 2 человек (возраст участников от 9 до 15 лет). В этом состязании участникам необходимо подготовить автономного робота, способного наиболее быстро проехать от зоны старта до зоны финиша по карте. Зоной финиша является зона старта, после прохождения роботом одного круга трассы.Побеждает команда, проехавшая весь маршрут за наименьшее время.</p>
-                    <!-- <a href="https://vk.com/doc95748576_524494099?hash=2df6c593dd27668aae&dl=35fcb6feaa2da8ed88" class="btn btn-primary btn_rules">РЕГЛАМЕНТ</a> -->
+                    <a href="https://vk.com/doc190245867_525493757?hash=7b9998233c4cefc77d&dl=a7bf4483c4d8d259c9" class="btn btn-primary btn_rules">Дополнительная информация</a>
                     </div>
                 </div>
             </div>
@@ -140,7 +141,7 @@
                     <div class="flex_img_rules_2">
                     <h5 class="card-title">Korolev robotic challenge (9-15 ЛЕТ)</h5>
                     <p class="card-text">Участники: команда из 1-2 человек (возраст участников от 9 до 15 лет).В этом состязании командам необходимо подготовить автономного робота, способного пройти трассу, состоящую из 3 полигонов: Движение по линии с препятствием; Кегельринг; Движение по линии с инверсией.</p>
-                    <!-- <a href="https://vk.com/doc95748576_524501395?hash=2f1448ff9e3ac9c518&dl=4c49c5d4f6cbf6d71e" class="btn btn-primary btn_rules">РЕГЛАМЕНТ</a> -->
+                    <a href="https://vk.com/doc190245867_525475516?hash=7e6f5e547a12e41a97&dl=3faad612b089483de9" class="btn btn-primary btn_rules">Дополнительная информация</a>
                     </div>
                 </div>
             </div>
