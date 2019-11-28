@@ -16,11 +16,11 @@
   </div>
   <p style="color:red; font-size: 24px;
     padding-top: 10px;
-    font-weight: bold; width: 100%;" class="plos">РЕГИСТРАЦИЯ ЗАКРЫТА
+    font-weight: bold; width: 100%;" class="plos">РЕГИСТРАЦИЯ ЗАКРЫТА<br>
 ПОДТВЕРЖДЕНИЕ ОБ УЧАСТИИ ПРИЙДЕТ НА ВАШУ ПОЧТУ НЕ ПОЗДНЕЕ 30.11<br>
     <span style="color:red; font-size: 18px;
     padding-top: 10px;
-    font-weight: bold; width: 100%;">*КОЛИЧЕСТВО МЕСТ ОГРАНИЧЕНО И РЕГИСТРАЦИЯ ПО КАТЕГОРИЯМ ЗАВЕРШИЛАСЬ РАНЬШЕ УКАЗАННОЙ ДАТЫ. Не забывайте оригиналы документов!!!</span>
+    font-weight: bold; width: 100%;">*КОЛИЧЕСТВО МЕСТ ОГРАНИЧЕНО И РЕГИСТРАЦИЯ ПО КАТЕГОРИЯМ ЗАВЕРШИЛАСЬ РАНЬШЕ УКАЗАННОЙ ДАТЫ. <br>Не забывайте оригиналы документов!!!</span>
     </p>
   </div>
 </div>
