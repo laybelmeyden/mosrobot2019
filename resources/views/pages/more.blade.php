@@ -16,11 +16,7 @@
   </div>
   <p style="color:red; font-size: 24px;
     padding-top: 10px;
-    font-weight: bold; width: 100%;" class="plos">РЕГИСТРАЦИЯ ЗАКРЫТА<br>
-ПОДТВЕРЖДЕНИЕ ОБ УЧАСТИИ ПРИДЕТ НА ВАШУ ПОЧТУ НЕ ПОЗДНЕЕ 30.11<br>
-    <span style="color:red; font-size: 18px;
-    padding-top: 10px;
-    font-weight: bold; width: 100%;">*КОЛИЧЕСТВО МЕСТ ОГРАНИЧЕНО И РЕГИСТРАЦИЯ ПО КАТЕГОРИЯМ ЗАВЕРШИЛАСЬ РАНЬШЕ УКАЗАННОЙ ДАТЫ. <br>Не забывайте оригиналы документов!!!</span>
+    font-weight: bold; width: 100%;" class="plos">*КОЛИЧЕСТВО МЕСТ ОГРАНИЧЕНО И РЕГИСТРАЦИЯ ПО КАТЕГОРИЯМ МОЖЕТ ЗАВЕРШИТЬСЯ РАНЬШЕ УКАЗАННОЙ ДАТЫ.
     </p>
   </div>
 </div>
@@ -49,7 +45,7 @@
             <div class="flex_two">
             <a class="btn btn-primary btn_info_one" href="https://vk.com/doc95748576_525177787?hash=0da47e18a842d83ed6&dl=d5f086af608a6cbccc" role="button">Регламенты</a>
             <a class="btn btn-primary btn_info_two" href="/about" role="button">Вопросы</a>
-            <a class="btn btn-primary btn_info_tgree" href="https://rusinnovations.timepad.ru/event/1112004/" role="button">регистрация на форум</a>
+            <a class="btn btn-primary btn_info_tgree" href="https://rusinnovations.timepad.ru/event/1132229/" role="button">Регистрация на Кубок Губернатора</a>
             </div>
             <div class="col-xl-12">
             <div class="card" style="margin-top:68px;">
