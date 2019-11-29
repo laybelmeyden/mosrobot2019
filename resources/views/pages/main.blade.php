@@ -11,7 +11,7 @@
   <img src="assets/img/placeholder-filled-point1.svg" alt="" class="right_contect"><h3>Дом Правительства Московской области</h3>
   </div>
   <div class="btn_header">
-  <a class="btn btn-primary btn_one" href="https://rusinnovations.timepad.ru/event/1112004/" role="button">УЧАСтвовать в кубке губернатора</a>
+  <a class="btn btn-primary btn_one" href="https://rusinnovations.timepad.ru/event/1112004/" role="button">регистрация на форум</a>
   <a class="btn btn-primary btn_two" href="https://rusinnovations.timepad.ru/event/1112112/" role="button">УЧАСтвовать в ХАКАТОНЕ</a>
   </div>
   </div>
@@ -70,7 +70,7 @@
     <div class="flex_two">
     <a class="btn btn-primary btn_info_one" href="/more" role="button">Подробнее</a>
     <a class="btn btn-primary btn_info_two" href="/about" role="button">Вопросы</a>
-    <a class="btn btn-primary btn_info_tgree" href="https://rusinnovations.timepad.ru/event/1112004/" role="button">РЕГИСТРАЦИЯ НА кубОК губернатора</a>
+    <a class="btn btn-primary btn_info_tgree" href="https://rusinnovations.timepad.ru/event/1112004/" role="button">регистрация на форум</a>
     </div>
   </div>
 </div>

@@ -49,7 +49,7 @@
             <div class="flex_two">
             <a class="btn btn-primary btn_info_one" href="https://vk.com/doc95748576_525177787?hash=0da47e18a842d83ed6&dl=d5f086af608a6cbccc" role="button">Регламенты</a>
             <a class="btn btn-primary btn_info_two" href="/about" role="button">Вопросы</a>
-            <a class="btn btn-primary btn_info_tgree" href="https://rusinnovations.timepad.ru/event/1112004/" role="button">РЕГИСТРАЦИЯ НА кубОК губернатора</a>
+            <a class="btn btn-primary btn_info_tgree" href="https://rusinnovations.timepad.ru/event/1112004/" role="button">регистрация на форум</a>
             </div>
             <div class="col-xl-12">
             <div class="card" style="margin-top:68px;">
