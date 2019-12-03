@@ -16,8 +16,7 @@
   </div>
   <p style="color:red; font-size: 24px;
     padding-top: 10px;
-    font-weight: bold; width: 100%;" class="plos">*КОЛИЧЕСТВО МЕСТ ОГРАНИЧЕНО И РЕГИСТРАЦИЯ ПО КАТЕГОРИЯМ МОЖЕТ ЗАВЕРШИТЬСЯ РАНЬШЕ УКАЗАННОЙ ДАТЫ.
-    </p>
+    font-weight: bold; width: 100%;" class="plos">Убедительная просьба ознакомиться с Итоговым списком участников, Регламентом и Таймингом Соревнований, которые закреплены ниже.</p>
   </div>
 </div>
 </section>
@@ -45,7 +44,10 @@
             <div class="flex_two">
             <a class="btn btn-primary btn_info_one" href="https://vk.com/doc95748576_525177787?hash=0da47e18a842d83ed6&dl=d5f086af608a6cbccc" role="button">Регламенты</a>
             <a class="btn btn-primary btn_info_two" href="/about" role="button">Вопросы</a>
-            <a class="btn btn-primary btn_info_tgree" href="https://rusinnovations.timepad.ru/event/1132229/" role="button">Регистрация на Кубок Губернатора</a>
+            <a class="btn btn-primary btn_info_two" 
+            style="background: red"
+            href="https://vk.com/doc95748576_526134242?hash=64ec3037ff51be8574&dl=11162777644301e901" role="button">Список участников</a>
+            <a class="btn btn-primary btn_info_two" href="https://vk.com/doc95748576_526168307?hash=5194c5f43ec9fda2b3&dl=6dd728ca4a14082e18" role="button">Тайминг Соревнований</a>
             </div>
             <div class="col-xl-12">
             <div class="card" style="margin-top:68px;">

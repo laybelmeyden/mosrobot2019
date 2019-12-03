@@ -239,8 +239,8 @@
 .btn_info_one {
     background: linear-gradient(98.91deg, #230E7A 2.49%, #431CB0 96.35%);
     border-radius: 40px;
-    width: 291px;
-    height: 83px;
+    width: 230px;
+    height: 80px;
     font-family: 'PNovaL';
     font-style: normal;
     font-weight: normal;
@@ -259,8 +259,8 @@
 .btn_info_two {
     background: linear-gradient(98.91deg, #230E7A 2.49%, #431CB0 96.35%);
     border-radius: 40px;
-    width: 291px;
-    height: 83px;
+    width: 230px;
+    height: 80px;
     font-family: 'PNovaL';
     font-style: normal;
     font-weight: normal;
@@ -726,7 +726,7 @@ textarea::placeholder {
 
 #header_other {
     background-image: url(../img/Group23.png);
-    height: 850px;
+    height: 650px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
