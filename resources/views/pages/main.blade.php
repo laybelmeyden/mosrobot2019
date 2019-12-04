@@ -193,6 +193,12 @@
      <div>
      <a href="https://coddyschool.com/"><img src="assets/img/logo-coddy-blue.png" alt=""  style="width: 150px;"></a>
      </div> 
+     <div>
+     <a href="https://promo-bot.ru/"><img src="assets/img/Logopromobot.png" alt=""  style="width: 150px;"></a>
+     </div> 
+     <div>
+     <a href="https://www.msu.ru/index.php"><img src="assets/img/lomonosov4.png" alt=""  style="width: 150px;"></a>
+     </div> 
     </div>
 </section>
 <section id="maps">
