@@ -46,7 +46,7 @@
             <a class="btn btn-primary btn_info_two" href="/about" role="button">Вопросы</a>
             <a class="btn btn-primary btn_info_two" 
             style="background: red"
-            href="https://vk.com/doc95748576_526489044?hash=c20f7c4b1e373db773&dl=8b96097132e1005d85" role="button">Список участников</a>
+            href="https://vk.com/doc95748576_526580298?hash=354034d4dbd43e0eb8&dl=f104f782ae05443fec" role="button">Список участников</a>
             <a class="btn btn-primary btn_info_two" href="https://vk.com/doc95748576_526168307?hash=5194c5f43ec9fda2b3&dl=6dd728ca4a14082e18" role="button">Тайминг Соревнований</a>
             </div>
             <div class="col-xl-12">
