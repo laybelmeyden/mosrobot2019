@@ -147,6 +147,59 @@
     </div>
   </div>
 </section>
+<section id="news">
+  <div class="container">
+    <div class="row">
+      <div class="col-xl-12">
+      <h1>Новости</h1>
+      </div>
+     <div class="col-sm-12 col-lg-4">
+     <div class="card">
+        <div class="card-body crd">
+          <h5 class="card-title">Обязательно ознакомьтесь с итоговым списком участников Соревнований 2019 года.</h5>
+          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal"
+          style="    background: linear-gradient(98.91deg, #431CB0 2.49%, #230E7A 96.35%);
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 40px;
+    font-family: 'PNovaL';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 77px;"
+          >Подробнее</button>
+        </div>
+      </div>
+     </div> 
+     </div>
+  </div> 
+  <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Обязательно ознакомьтесь с итоговым списком участников Соревнований 2019 года.</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      <b>Опубликован 3.12.19</b><br><br>
+      Участвовать в Соревнованиях могут только те участники, которые есть в списке. Изменения в ФИО участников могут быть внесены не позднее, чем за 12 часов до начала Соревнований
+      <br><br><a href="https://vk.com/doc95748576_526580298?hash=354034d4dbd43e0eb8&dl=f104f782ae05443fec"><b>Список участников</b></a><br><br>
+    </div>
+    </div>
+  </div>
+</div> 
+</section>
 <section id="partners">
   <div class="container">
     <div class="row">

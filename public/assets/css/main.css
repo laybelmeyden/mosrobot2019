@@ -523,6 +523,21 @@ a:hover {
     margin-top: 41px;
 }
 
+.crd {
+    padding: 20px !important;
+}
+
+#news h1 {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 44px;
+    text-transform: uppercase;
+    color: #230E7A;
+    text-align: center;
+    margin-top: 41px;
+}
+
 .maps_back {
     background: #230E7A;
     width: 552px;
@@ -1304,6 +1319,16 @@ textarea::placeholder {
         margin-right: 0;
     }
     #partners h1 {
+        font-style: normal;
+        font-weight: 900;
+        font-size: 32px;
+        line-height: 44px;
+        text-transform: uppercase;
+        color: #230E7A;
+        text-align: center;
+        margin-top: 41px;
+    }
+    #news h1 {
         font-style: normal;
         font-weight: 900;
         font-size: 32px;
