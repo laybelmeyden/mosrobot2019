@@ -53,7 +53,7 @@
       <h1>Новости</h1>
       </div>
      <div class="col-sm-12 col-lg-4">
-     <div class="card">
+     <div class="card crd_2">
         <div class="card-body crd">
           <h5 class="card-title">Победители Кубка Губернатора 2019</h5>
           <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal"

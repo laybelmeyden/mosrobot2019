@@ -747,6 +747,10 @@ textarea::placeholder {
     background-size: cover;
 }
 
+.crd_2 {
+    width: 300px;
+}
+
 #header_other h1 {
     font-family: 'PNovaB';
     font-style: normal;
