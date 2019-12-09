@@ -141,7 +141,7 @@
      <div class="col-sm-12 col-lg-4">
      <div class="card">
         <div class="card-body crd">
-          <h5 class="card-title">Обязательно ознакомьтесь с итоговым списком участников Соревнований 2019 года.</h5>
+          <h5 class="card-title">Победители Кубка Губернатора 2019</h5>
           <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal"
           style="    background: linear-gradient(98.91deg, #431CB0 2.49%, #230E7A 96.35%);
     border: 1px solid #FFFFFF;
