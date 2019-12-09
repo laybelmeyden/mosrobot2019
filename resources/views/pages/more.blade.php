@@ -56,8 +56,7 @@
      <div class="card crd_2">
         <div class="card-body crd">
           <h5 class="card-title">Победители Кубка Губернатора 2019</h5>
-          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal"
-          style="    background: linear-gradient(98.91deg, #431CB0 2.49%, #230E7A 96.35%);
+          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" style="    background: linear-gradient(98.91deg, #431CB0 2.49%, #230E7A 96.35%);
     border: 1px solid #FFFFFF;
     box-sizing: border-box;
     border-radius: 40px;
@@ -74,8 +73,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-right: 77px;"
-          >Подробнее</button>
+    margin-right: 77px;">Подробнее</button>
         </div>
       </div>
      </div> 
@@ -87,12 +85,12 @@
       <div class="modal-header">
         <h5 class="modal-title" id="exampleModalLabel">Победители Кубка Губернатора 2019</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
+          <span aria-hidden="true">×</span>
         </button>
       </div>
       <div class="modal-body">
       <b>Опубликован 3.12.19</b><br><br>
-      <br><br><a href="https://vk.com/doc95748576_526580298?hash=354034d4dbd43e0eb8&dl=f104f782ae05443fec"><br><br>7 декабря в Доме Правительства Московской области состоялся молодежный форум инноваций и предпринимательства Московской области, в котором приняли участие более 3000 человек.
+      <br><br><a href="https://vk.com/doc95748576_526580298?hash=354034d4dbd43e0eb8&amp;dl=f104f782ae05443fec"><br><br>7 декабря в Доме Правительства Московской области состоялся молодежный форум инноваций и предпринимательства Московской области, в котором приняли участие более 3000 человек.
       <br><br>
 В рамках Форума прошли Соревнования на Кубок Губернатора Московской области по робототехнике и Хакатону, участниками которого стали 472 ребенка
 <br><br>
