@@ -20,33 +20,7 @@
   </div>
 </div>
 </section>
-<section id="rules">
-<img src="assets/img/right.png" alt="" class="info_img_1">
-    <div class="container">
-        <div class="row">
-            <h2 class="rules_h2">Общие правила соревнований</h2>
-            <div class="flex_rules">
-                <div>
-                    <img src="assets/img/Group24.png" alt="">
-                    <p>Возраст участников и количественный состав команд в каждой категории строго определяется Регламентами соревнований.</p>
-                </div>
-                <div>
-                    <img src="assets/img/Group25.png" alt="">
-                    <p>Организаторы не предоставляют компьютеры(ноутбуки) и наборы для соренований. Каждая команда приезжает со своим набором и ноутбуком.</p>
-                </div>
-                <div>
-                    <img src="assets/img/Group26.png" alt="">
-                    <p>Каждый участник соревнований (участники - дети и сопровождающие - преподаватель, сопровождающий, родитель) проходит ОБЯЗАТЕЛЬНУЮ регистрацию - индивидуально. Одна отправленная анкета - один человек.</p>
-                </div>
-                <p></p>
-            </div>
-            <h3 class="rules_h3">Внимание! Для прохода на площадку Соревнований необходимо взять с собой ОРИГИНАЛЫ ДОКУМЕНТОВ: для детей(свидетельство о рождении) и взрослых(паспорт РФ)!</h3>
-            <div class="flex_two">
-            <a class="btn btn-primary btn_info_one" href="https://vk.com/doc95748576_525177787?hash=0da47e18a842d83ed6&dl=d5f086af608a6cbccc" role="button">Регламенты</a>
-            <a class="btn btn-primary btn_info_two" href="/about" role="button">Вопросы</a>
-            <a class="btn btn-primary btn_info_two" href="https://vk.com/doc95748576_526168307?hash=5194c5f43ec9fda2b3&dl=6dd728ca4a14082e18" role="button">Тайминг Соревнований</a>
-            </div>
-            <section id="news">
+<section id="news">
   <div class="container">
     <div class="row">
       <div class="col-xl-12">
@@ -145,6 +119,33 @@ KOROLEV ROBOTIC CHALLENGE<br>
   </div>
 </div> 
 </section>
+<section id="rules">
+<img src="assets/img/right.png" alt="" class="info_img_1">
+    <div class="container">
+        <div class="row">
+            <h2 class="rules_h2">Общие правила соревнований</h2>
+            <div class="flex_rules">
+                <div>
+                    <img src="assets/img/Group24.png" alt="">
+                    <p>Возраст участников и количественный состав команд в каждой категории строго определяется Регламентами соревнований.</p>
+                </div>
+                <div>
+                    <img src="assets/img/Group25.png" alt="">
+                    <p>Организаторы не предоставляют компьютеры(ноутбуки) и наборы для соренований. Каждая команда приезжает со своим набором и ноутбуком.</p>
+                </div>
+                <div>
+                    <img src="assets/img/Group26.png" alt="">
+                    <p>Каждый участник соревнований (участники - дети и сопровождающие - преподаватель, сопровождающий, родитель) проходит ОБЯЗАТЕЛЬНУЮ регистрацию - индивидуально. Одна отправленная анкета - один человек.</p>
+                </div>
+                <p></p>
+            </div>
+            <h3 class="rules_h3">Внимание! Для прохода на площадку Соревнований необходимо взять с собой ОРИГИНАЛЫ ДОКУМЕНТОВ: для детей(свидетельство о рождении) и взрослых(паспорт РФ)!</h3>
+            <div class="flex_two">
+            <a class="btn btn-primary btn_info_one" href="https://vk.com/doc95748576_525177787?hash=0da47e18a842d83ed6&dl=d5f086af608a6cbccc" role="button">Регламенты</a>
+            <a class="btn btn-primary btn_info_two" href="/about" role="button">Вопросы</a>
+            <a class="btn btn-primary btn_info_two" href="https://vk.com/doc95748576_526168307?hash=5194c5f43ec9fda2b3&dl=6dd728ca4a14082e18" role="button">Тайминг Соревнований</a>
+            </div>
+
             <div class="col-xl-12">
             <div class="card" style="margin-top:68px;">
             <div class="card-body">
