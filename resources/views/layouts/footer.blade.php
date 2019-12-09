@@ -3,10 +3,10 @@
 <div class="col-sm-12 col-xl-6">
 <h1 class="h1_footer">Если у вас остались вопросы, <br>свяжитесь с нами:</h1>
 <div class="flex_footer_1">
-<div>
+<!-- <div>
 <img src="assets/img/Group21.svg" alt="">
 <a href="tel:+7 (499) 753-01-25"><p>+7 (499) 753-01-25</p></a>
-</div>
+</div> -->
 </div>
 <div class="flex_footer_2">
 <div>

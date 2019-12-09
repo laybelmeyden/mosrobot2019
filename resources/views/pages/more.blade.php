@@ -44,9 +44,6 @@
             <div class="flex_two">
             <a class="btn btn-primary btn_info_one" href="https://vk.com/doc95748576_525177787?hash=0da47e18a842d83ed6&dl=d5f086af608a6cbccc" role="button">Регламенты</a>
             <a class="btn btn-primary btn_info_two" href="/about" role="button">Вопросы</a>
-            <a class="btn btn-primary btn_info_two" 
-            style="background: red"
-            href="https://vk.com/doc95748576_526580298?hash=354034d4dbd43e0eb8&dl=f104f782ae05443fec" role="button">Список участников</a>
             <a class="btn btn-primary btn_info_two" href="https://vk.com/doc95748576_526168307?hash=5194c5f43ec9fda2b3&dl=6dd728ca4a14082e18" role="button">Тайминг Соревнований</a>
             </div>
             <section id="news">
@@ -88,14 +85,13 @@
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Обязательно ознакомьтесь с итоговым списком участников Соревнований 2019 года.</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Победители Кубка Губернатора 2019</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body">
       <b>Опубликован 3.12.19</b><br><br>
-      Участвовать в Соревнованиях могут только те участники, которые есть в списке. Изменения в ФИО участников могут быть внесены не позднее, чем за 12 часов до начала Соревнований
       <br><br><a href="https://vk.com/doc95748576_526580298?hash=354034d4dbd43e0eb8&dl=f104f782ae05443fec"><br><br>7 декабря в Доме Правительства Московской области состоялся молодежный форум инноваций и предпринимательства Московской области, в котором приняли участие более 3000 человек.
       <br><br>
 В рамках Форума прошли Соревнования на Кубок Губернатора Московской области по робототехнике и Хакатону, участниками которого стали 472 ребенка

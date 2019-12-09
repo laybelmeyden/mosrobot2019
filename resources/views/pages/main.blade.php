@@ -25,14 +25,6 @@
     <div class="about_text">
     <h1 class="info_h1">Кубок Губернатора</h1>
     <h3 class="info_h3"><span><b>7</b></span> номинаций, около <span><b>2000</b></span> человек</h3>
-  <div style="margin-bottom:40px;">
-  <h3>По вопросам участия в соревнованиях:</h3>
-  <h3>
-  Шульгин Владимир 
-  <a href="tel:+7 (499) 753-01-25">+7 (499) 753-01-25</a> 
-  <a href="mailto:mosoblfest@mail.ru">mosoblfest@mail.ru</a>
-  </h3>
-  </div>
     <div class="flex_one">
      <div>
        <img src="assets/img/Group7.svg" alt="">
@@ -83,14 +75,7 @@
     <p class="hackaton_p1"><b>Хакатон</b> – это марафон разработчиков, мероприятие, во время которого специалисты из разных областей разработки программного обеспечения (программисты, дизайнеры, менеджеры) сообща работают над решением какой-либо проблемы/задачи.</p>
     <p class="hackaton_p2"><span>7 декабря </span>участникам Хакатона предстоит решить реальную задачу из практики МТС.</p>
     </div>
-    <div style="margin-bottom:40px; color: #1EFFFF;">
-  <h3>По вопросам участия в Хакатоне:</h3>
-  <h3>
-  Шульгин Владимир 
-  <a href="tel:+7 (499) 753-01-25" style="color: #1EFFFF;">+7 (499) 753-01-25</a> 
-  <a href="mailto:mosoblfest@mail.ru" style="color: #1EFFFF;">mosoblfest@mail.ru</a>
-  </h3>
-  </div>
+    
     <div class="flex_three">
     <a class="btn btn-primary btn_hackaton_one" href="/hackaton" role="button">Подробнее</a>
     <a class="btn btn-primary btn_hackaton_two" href="https://rusinnovations.timepad.ru/event/1112112/" role="button">РЕГИСТРАЦИЯ НА ХАКАТОН</a>
@@ -186,14 +171,13 @@
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Обязательно ознакомьтесь с итоговым списком участников Соревнований 2019 года.</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Победители Кубка Губернатора 2019</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body">
       <b>Опубликован 3.12.19</b><br><br>
-      Участвовать в Соревнованиях могут только те участники, которые есть в списке. Изменения в ФИО участников могут быть внесены не позднее, чем за 12 часов до начала Соревнований
       <br><br><a href="https://vk.com/doc95748576_526580298?hash=354034d4dbd43e0eb8&dl=f104f782ae05443fec"><br><br>7 декабря в Доме Правительства Московской области состоялся молодежный форум инноваций и предпринимательства Московской области, в котором приняли участие более 3000 человек.
       <br><br>
 В рамках Форума прошли Соревнования на Кубок Губернатора Московской области по робототехнике и Хакатону, участниками которого стали 472 ребенка
